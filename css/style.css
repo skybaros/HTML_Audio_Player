@@ -1,0 +1,27 @@
+.container {
+	max-width: 400px;
+	margin: auto;
+}
+
+audio {
+	width: 370px;
+}
+
+li {
+	list-style: none;
+}
+
+.playlist li a {
+	text-decoration: none;
+	color: white;
+}
+
+.playlist {
+	max-width: 400px;
+	background-color: black;
+	opacity: 0.5;
+}
+
+.playlist .current a{
+	color: blue;
+}
