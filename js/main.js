@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
 	var currentSong = 0;
             $("#player")[0].src = $("#playlist li a")[0];
             $("#player")[0].play();

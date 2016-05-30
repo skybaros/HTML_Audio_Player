@@ -13,7 +13,7 @@ li {
 
 .playlist li a {
 	text-decoration: none;
-	color: white;
+	color: #aaa;
 }
 
 .playlist {
@@ -23,5 +23,5 @@ li {
 }
 
 .playlist .current a{
-	color: blue;
+	color: #930;
 }
